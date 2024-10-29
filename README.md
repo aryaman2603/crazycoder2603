@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crazycoder2603
+- 👋 Hi, I’m @aryaman2603
 - 👀 I’m interested in AI-ML and other related concepts
 - 🌱 I’m currently pursuing a bachelor's degree in Data Science
 - 💞️ I’m looking to collaborate on projects that will help me develop these skills mentioned above
